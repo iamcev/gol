@@ -1,0 +1,2 @@
+# gol
+life
