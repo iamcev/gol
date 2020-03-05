@@ -1,7 +1,7 @@
 var canvas = document.querySelector('#game');
 var ctx = canvas.getContext('2d');
 var board = new Map();
-var pixelSize = 4;
+var pixelSize = 16;
 var keys = {};
 var md = false;
 var mx = 0;
